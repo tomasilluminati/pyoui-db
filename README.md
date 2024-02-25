@@ -37,7 +37,7 @@ Contributions are welcome! If you find any missing OUIs or company names, please
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
 
-Alternatively, you can collaborate directly with Wireshark by visiting their [manufacturer database](https://wiresharkfoundation.org/donate/).
+Alternatively, you can collaborate directly with Wireshark by visiting their [donate page](https://wiresharkfoundation.org/donate/).
 
 
 ## License
