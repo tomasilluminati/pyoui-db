@@ -20,11 +20,13 @@ pip install pyoui-db
 ```python
 from pyoui_db import OUI_LIB
 
+mac_adress = "00:00:08"
+
 # To retrieve the abbreviated company name for a given OUI
-oui_abbreviated = OUI_LIB["00:00:08"][0]
+oui_abbreviated = OUI_LIB[mac_adress.upper()][0]
 
 # To retrieve the full company name for a given OUI
-oui_full = OUI_LIB["00:00:08"][1]
+oui_full = OUI_LIB[mac_adress.upper()][1]
 ```
 
 ## Contributing
